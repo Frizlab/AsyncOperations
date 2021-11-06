@@ -1,0 +1,4 @@
+= AsyncOperations
+François Lamboley <fload@me.com>
+
+Like a `BlockOperation`, but for asynchronous tasks.
