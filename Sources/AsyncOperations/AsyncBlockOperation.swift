@@ -6,7 +6,8 @@ import RetryingOperation
 
 
 
-/** Like a BlockOperation, but for asynchronous tasks.
+/**
+ Like a BlockOperation, but for asynchronous tasks.
  
  See ``addAsyncBlock(startHandler:)`` in the OperationQueue extension for more information. */
 public class AsyncBlockOperation : RetryingOperation {
