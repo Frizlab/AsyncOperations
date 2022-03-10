@@ -3,7 +3,7 @@
     "pins": [
       {
         "package": "RetryingOperation",
-        "repositoryURL": "https://github.com/happn-tech/RetryingOperation.git",
+        "repositoryURL": "https://github.com/happn-app/RetryingOperation.git",
         "state": {
           "branch": null,
           "revision": "4d69ec3aa4cb5d33e973fcfe01378a1d49e351f2",

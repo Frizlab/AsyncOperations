@@ -1,4 +1,4 @@
-/* From officectl (an happn-tech project) */
+/* From officectl (an happn-app project) */
 
 import Foundation
 
